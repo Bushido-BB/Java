@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=FFS
+comment1.params=
+comment1.target=boolean\ showMenu()
+comment2.params=
+comment2.target=void\ factorial()
+comment3.params=
+comment3.target=void\ fibonacci()
+comment4.params=
+comment4.target=void\ square()
+comment5.params=array
+comment5.target=void\ main(java.lang.String[])
+numComments=6

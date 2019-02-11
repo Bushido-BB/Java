@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=clg
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ makeArray()
+comment3.params=
+comment3.target=void\ make2DArray()
+comment4.params=
+comment4.target=void\ makeJaggedArray()
+comment5.params=a\ b
+comment5.target=java.lang.String\ function1(int,\ int)
+comment6.params=a\ b
+comment6.target=void\ function2(int,\ int)
+comment7.params=
+comment7.target=java.lang.String\ function3()
+comment8.params=
+comment8.target=void\ function4()
+numComments=9

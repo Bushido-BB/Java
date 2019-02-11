@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=cw_buddy_pairs
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=start\ limit
+comment2.target=java.lang.String\ buddy(long,\ long)
+numComments=3

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=FibonacciSquares
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=x
+comment2.target=void\ fibo(int)
+comment3.params=n1
+comment3.target=void\ perimeter(java.lang.String)
+comment4.params=
+comment4.target=void\ perifind()
+comment5.params=
+comment5.target=void\ fiboarea()
+numComments=6

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Throwing
+comment1.params=x\ function
+comment1.target=boolean\ checkDomain(double,\ java.lang.String)
+comment2.params=funct
+comment2.target=DomainException(java.lang.String)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

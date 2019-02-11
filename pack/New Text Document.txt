@@ -1,0 +1,5 @@
+class Palindrome{
+String palindrome(String str){
+System.out.print("Chalda Hai");
+}
+}

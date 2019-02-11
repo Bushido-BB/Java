@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Area_Construct
+comment1.params=x
+comment1.target=Area_Construct(int)
+comment2.params=x\ y
+comment2.target=Area_Construct(int,\ int)
+comment3.params=x\ y\ z
+comment3.target=Area_Construct(int,\ int,\ int)
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5
